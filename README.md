@@ -7,6 +7,7 @@ Thsi repository contains:
    3.File for demonstartion of Image processing done to enhance video/image to be able to retrieve features :processing.ipynb
    4.Haarcascades and other files for detection of Facial landmarks.
    5.Sample images used
+   6.Facial Landmark Map
 
 To run this on your computer:
   Libraries / Tools required are:
