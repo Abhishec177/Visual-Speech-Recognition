@@ -1,0 +1,6 @@
+1.shape_predictor_68_face_landmarks.dat by dlib
+2.MIRACL-V1 Dataset(structured into 20 categories in a folder named data)
+
+packages:
+Keras-dlib-numpy-matplotlib
+opencv-python
